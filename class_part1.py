@@ -62,7 +62,7 @@ mi_Perro1.ladra()
 mi_Perro1.camina(200)'''
 
 #Desafio 1
-'''class Personas:
+class Personas:
     ojos = 2
     manos = 2
     piernas = 2
@@ -78,7 +78,7 @@ Persona1 = Personas('javier','rubio','marron')
 persona2 = Personas('Mara','gris','azules')
 Persona1.Presentacion(Persona1.nombre)
 persona2.Saludar()
-print(persona2.color_ojos , Persona1.color_ojos)'''
+print(persona2.color_ojos , Persona1.color_ojos)
 
 ##__str__ & __len__ & __getitem__ & __setitem__ & iter
 
